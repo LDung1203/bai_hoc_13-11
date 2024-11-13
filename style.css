@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    border: 2px solid;
+    border-radius: 50px;
+    text-align: center;
+    margin: 20px;
+    background-color: antiquewhite;
+}
+.content {
+    border: 2px solid #ccc;
+    margin: 0 75px;
+    background-color: antiquewhite;
+}
+.list1>li {
+    list-style-type: none;
+}
+.list2 {
+    margin-left: 50px;
+}
